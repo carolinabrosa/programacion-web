@@ -1,2 +1,2 @@
 # programacion web
- trabajo progamacion
+ trabajo programacion
