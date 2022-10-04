@@ -1,8 +1,8 @@
 
-
 body {
     background-color:rgb(212, 204, 204) ;
 }
+
 .container{ 
     margin: auto;
     background-color: white;
@@ -18,29 +18,23 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 30px;
     text-align: center;}
-.nav-item{
-    text-align: center;
-}
-#ubi {
-    font-family: 'Playfair Display', serif;
-    text-align: center;
-}
-#sev {
-    font-family: 'Playfair Display', serif;
-    text-align: center;
-}
+
 #mapa {
     width: 200px;
     height: 200px;
 }
 #servicios {
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    margin-left: 20px;
+    padding-left: 20px;
+    border: 10px solid rgb(9, 238, 242);
+    
 }
 
 #fixed {
     position:
     fixed;
     right: 1vw;
-    bottom: 1vw
+   bottom: 1vw
 }
