@@ -1,0 +1,46 @@
+
+
+body {
+    background-color:rgb(212, 204, 204) ;
+}
+.container{ 
+    margin: auto;
+    background-color: white;
+    border-top: 6px solid rgb(17, 229, 215);
+    border-bottom:6px solid rgb(17, 229, 215) ;
+}
+.container img {
+    height:100px;
+    width: 80px;
+    float: left;
+ }
+#titulo {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    text-align: center;}
+.nav-item{
+    text-align: center;
+}
+#ubi {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+#sev {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+#mapa {
+    width: 200px;
+    height: 200px;
+}
+#servicios {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center
+}
+
+#fixed {
+    position:
+    fixed;
+    right: 1vw;
+    bottom: 1vw
+}
